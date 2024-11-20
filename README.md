@@ -5,14 +5,14 @@ Exepriemnts to enhance performance included
 - standardisation of predictors
 - feature ranking and selection
 
-# ML models tested:
+### ML models tested:
 - Logistic regression (parametric)
 - KNN (non-parametric)
 - Random forest (non-parametric)
 
-# Performance metrics
+### Performance metrics
   - accuracy
   - precision
   - recall
   - f1
-# See notebook for accompanying commentary and analysis 
+## See notebook for accompanying commentary and analysis 
